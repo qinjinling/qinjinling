@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👀 I’m interested in full stack (Golang especially)
-- 🌱 I’m currently learning to create functional and clean frontends in React.js + TypeScript (Mithril.js alternatively)
+- 🌱 I’m currently learning to create functional and clean frontends in React.js + TypeScript
 - ❤️ Open Source Software
 - 📫 How to reach me: [qinjinling@outlook.com](qinjinling@outlook.com)
 
